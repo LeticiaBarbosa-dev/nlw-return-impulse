@@ -1,76 +1,37 @@
-# Desafio 3 - Hiring Coders
-## Criar um Ecommerce com Vtex IO
+# Feedget
+## Uma página para envio de feedbacks
 
-### A aplicação - Loja UpMedal
+### A aplicação
 
-Este projeto tem por finalidade simular um ecommerce simples contendo um carrosseis e prateleiras de produtos. Assim como páginas para produtos, categorias e uma página de formulario.
+Este projeto foi construído durante a NLW Return, promovida pela ROCKETSEAT.
 
 ### Tecnologias utilizadas
 
-- Vtex IO
 - React
 - Typescript
+- NodeJs
 
 ### Rodando localmente
 
 Para iniciar o desenvolvimento, é necessário clonar o projeto do Github em um diretório de sua preferência: 
 
-`git clone https://github.com/jovenan/Desafio-HC-Vtex-IO.git`
+`git clone https://github.com/LeticiaBarbosa-dev/nlw-return-impulse.git`
 
-Para que você consiga rodar o site localmente, é necessario ter uma conta Vtex e ter um workspace de desenvolvimento. Para isso, recomendo acessar o seguinte site:
+Para que você consiga rodar o site localmente, e necessário ter um workspace de desenvolvimento. Para isso, recomendo acessar o seguinte site:
 
-<a href="https://learn.vtex.com/page/configurando-seu-ambiente" target="_blank">https://learn.vtex.com/page/configurando-seu-ambiente</a>
-
-Para iniciar em modo de desenvolvimento, rode esse comando na pasta raiz:
-
-`vtex link`
-
-Abra outro terminal em paralelo, e dentro dele, abra a pasta do tema "UpMedal-Theme":
-
-`cd UpMedal-Theme`
-
-Rode novamente o comando dentro desse terminal:
-
-`vtex link`
+<a href="https://pt-br.reactjs.org/" target="_blank">https://pt-br.reactjs.org/</a>
 
 ### Páginas
 
 - Home:
-
-<img src="imagens/Home.jpg" alt="Imagem da Home">
-
-<hr>
-
-- Produto:
-
-<img src="imagens/pag-prod.jpg" alt="Imagem da página de produtos">
-
-<hr>
-
-- Formulario:
-
-<img src="imagens/pag-form.jpg" alt="Imagem da página de formulario">
-
-<hr>
+![image](https://user-images.githubusercontent.com/78429537/174485426-f79a3914-05a7-457c-bce0-a80d19686d99.png)
 
 ### Funcionalidades
 
-- Header do site onde é possivel utilizar da barra de busca, minicart e da categorização dos produtos:
+- Ao clicar no ícone selecionado é possível enviar diversos tipos de feedback:
 
-<img src="imagens/Header.png" alt="Imagem do Header do site">
+![image](https://user-images.githubusercontent.com/78429537/174485522-187caad7-dd4f-4ff9-81b9-9c803a9a3002.png)
 
-<hr>
+![image](https://user-images.githubusercontent.com/78429537/174485555-978d11c7-2c56-4f52-a59f-32a9a5a8e4fb.png)
 
-- Footer do site onde é possivel utilizar para navegar para a página do formulario, página Home e abrir o suporte pelo Whatsapp:
-
-<img src="imagens/Footer.png" alt="Imagem do Footer do site">
-
-<hr>
-
-- Minicart do site, onde é possivel visualizar os produtos que foram selecionados para compra, seguido pelo botão que leva ao checkout:
-
-<img src="imagens/minicart.png" alt="Imagem do Minicart do site">
-
-<hr>
-
-### Desenvolvedor Jonatas Venâncio
+Feito com 💜 por <strong>Letícia Barbosa</strong> 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leticia-pbs/)
